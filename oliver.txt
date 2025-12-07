@@ -9,3 +9,6 @@ Frameworks:
 - frameworks3
 
 Lenguajes:
+- lenguaje1
+- lenguaje2
+- lenguaje3
